@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T12:21:17.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Rk6K46sSvvlzcvFBQF6g" version="21.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T20:59:04.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JNjIRKvYGqotX_jsym3J" version="21.2.0" type="github">
   <diagram name="Page-1" id="3M26kK3yfDT21ngbQrwk">
-    <mxGraphModel dx="1687" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,46 +14,46 @@
           <mxGeometry x="120" y="1790" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-16" value="False Terminal Attack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="932" width="140" height="30" as="geometry" />
+          <mxGeometry x="505" y="863" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-17" value="Operational" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2060" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="932" width="10" height="10" as="geometry" />
+          <mxGeometry x="1075" y="863" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.48;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-46" target="5whXlgaujgkpR1IzbLmS-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="205" y="847" as="sourcePoint" />
-            <mxPoint x="875" y="602" as="targetPoint" />
+            <mxPoint x="275" y="778" as="sourcePoint" />
+            <mxPoint x="945" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5whXlgaujgkpR1IzbLmS-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="922" as="sourcePoint" />
-            <mxPoint x="875" y="602" as="targetPoint" />
+            <mxPoint x="385" y="853" as="sourcePoint" />
+            <mxPoint x="945" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5whXlgaujgkpR1IzbLmS-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="465" y="922" as="sourcePoint" />
-            <mxPoint x="875" y="602" as="targetPoint" />
+            <mxPoint x="535" y="853" as="sourcePoint" />
+            <mxPoint x="945" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-72" target="5whXlgaujgkpR1IzbLmS-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="715" y="932" as="sourcePoint" />
-            <mxPoint x="875" y="602" as="targetPoint" />
+            <mxPoint x="785" y="863" as="sourcePoint" />
+            <mxPoint x="945" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="735" y="902" as="sourcePoint" />
-            <mxPoint x="875" y="602" as="targetPoint" />
+            <mxPoint x="805" y="833" as="sourcePoint" />
+            <mxPoint x="945" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-37" value="Shoulder Surfing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="932" width="110" height="30" as="geometry" />
+          <mxGeometry x="310" y="863" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-38" value="Unauthorized access to&amp;nbsp;&lt;br&gt;system databases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="2290" width="150" height="40" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="920" y="2408" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-46" value="Direct Threats (blackmail, physical threats,&lt;br&gt;phishing, etc.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="815" width="250" height="40" as="geometry" />
+          <mxGeometry x="80" y="746" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-47" value="Phishing attacks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1700" width="110" height="30" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="1190" y="2150" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-50" value="&lt;b&gt;Maintenance contractor&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="897" width="160" height="30" as="geometry" />
+          <mxGeometry x="1075" y="828" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-52" value="Theft of user/admin credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="1760" width="190" height="30" as="geometry" />
@@ -100,83 +100,134 @@
         <mxCell id="5whXlgaujgkpR1IzbLmS-66" value="Stolen payment info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="1838" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-67" value="&lt;b&gt;Credential Threats&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="817" y="569" width="130" height="30" as="geometry" />
+        <mxCell id="5whXlgaujgkpR1IzbLmS-67" value="&lt;b&gt;Credential Vulnerabilities&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="867" y="500" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-69" value="&lt;b&gt;System Insider&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="755" y="902" width="110" height="30" as="geometry" />
+          <mxGeometry x="825" y="833" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-72" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="715" y="932" width="10" height="10" as="geometry" />
+          <mxGeometry x="785" y="863" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-74" value="" style="endArrow=none;html=1;rounded=0;exitX=0.505;exitY=-0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-75" target="5whXlgaujgkpR1IzbLmS-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="765" y="1022" as="sourcePoint" />
-            <mxPoint x="905" y="1002" as="targetPoint" />
+            <mxPoint x="835" y="953" as="sourcePoint" />
+            <mxPoint x="975" y="933" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-75" value="Trojan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1022" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="953" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.517;exitY=-0.106;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-77" target="5whXlgaujgkpR1IzbLmS-72">
+        <mxCell id="5whXlgaujgkpR1IzbLmS-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.517;exitY=-0.106;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="5whXlgaujgkpR1IzbLmS-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="725" y="1022" as="sourcePoint" />
-            <mxPoint x="694" y="973" as="targetPoint" />
+            <mxPoint x="792.8899999999999" y="999.8199999999999" as="sourcePoint" />
+            <mxPoint x="764" y="904" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-77" value="Admin/User credential theft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="1072" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-79" target="5whXlgaujgkpR1IzbLmS-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="645" y="1022" as="sourcePoint" />
-            <mxPoint x="695" y="942" as="targetPoint" />
+            <mxPoint x="715" y="953" as="sourcePoint" />
+            <mxPoint x="765" y="873" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-79" value="vulnerability exploitation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1022" width="150" height="30" as="geometry" />
+        <mxCell id="5whXlgaujgkpR1IzbLmS-79" value="Vulnerability Leaks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="953" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-80" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.506;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-81" target="5whXlgaujgkpR1IzbLmS-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1105" y="1032" as="sourcePoint" />
-            <mxPoint x="1035" y="973" as="targetPoint" />
+            <mxPoint x="1175" y="963" as="sourcePoint" />
+            <mxPoint x="1105" y="904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-81" value="Bug in system terminal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="1030" width="140" height="30" as="geometry" />
+          <mxGeometry x="1235" y="961" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-82" value="" style="endArrow=none;html=1;rounded=0;exitX=0.508;exitY=-0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-83" target="5whXlgaujgkpR1IzbLmS-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1091" y="1041" as="sourcePoint" />
-            <mxPoint x="1005" y="962" as="targetPoint" />
+            <mxPoint x="1161" y="972" as="sourcePoint" />
+            <mxPoint x="1075" y="893" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-83" value="Malware or virus&lt;br&gt;installation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1052" width="110" height="40" as="geometry" />
+          <mxGeometry x="1100" y="983" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-84" value="" style="endArrow=none;html=1;rounded=0;exitX=1.05;exitY=0.561;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-77" target="5whXlgaujgkpR1IzbLmS-19">
+        <mxCell id="5whXlgaujgkpR1IzbLmS-84" value="" style="endArrow=none;html=1;rounded=0;exitX=1.05;exitY=0.561;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5whXlgaujgkpR1IzbLmS-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="965" y="1084.5" as="sourcePoint" />
-            <mxPoint x="879" y="1005.5" as="targetPoint" />
+            <mxPoint x="883.5" y="1019.8299999999997" as="sourcePoint" />
+            <mxPoint x="949" y="936.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-85" value="&lt;b&gt;System Vulnerabilites&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="70" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-86" value="&lt;b&gt;Server Threats&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1186" y="240" width="110" height="30" as="geometry" />
+        <mxCell id="5whXlgaujgkpR1IzbLmS-86" value="&lt;b&gt;Software vulnerabilities&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="240" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-19" target="5whXlgaujgkpR1IzbLmS-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1006" y="933" as="sourcePoint" />
-            <mxPoint x="875" y="602" as="targetPoint" />
+            <mxPoint x="1076" y="864" as="sourcePoint" />
+            <mxPoint x="945" y="533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5whXlgaujgkpR1IzbLmS-87" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="870" y="599" width="10" height="10" as="geometry" />
+          <mxGeometry x="940" y="530" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5whXlgaujgkpR1IzbLmS-89" value="&lt;b&gt;Hardware Threats&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="120" height="30" as="geometry" />
+        <mxCell id="5whXlgaujgkpR1IzbLmS-89" value="&lt;b&gt;Hardware Vulnerabilities&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-91" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;System Vulnerabilites&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-92" value="Credential leaking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="999" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-94" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="295" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-95" value="Hardware Vandalism / Theft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="435" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-96" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.499;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-95" target="5whXlgaujgkpR1IzbLmS-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="355" as="sourcePoint" />
+            <mxPoint x="330" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.506;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-98" target="5whXlgaujgkpR1IzbLmS-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="415" as="sourcePoint" />
+            <mxPoint x="340" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-98" value="Unauthorized&lt;br&gt;&amp;nbsp;hardware deactivation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-99" value="Bug installation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="393" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-100" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.515;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-99" target="5whXlgaujgkpR1IzbLmS-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="366" y="440" as="sourcePoint" />
+            <mxPoint x="345" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-101" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1101" y="588" as="sourcePoint" />
+            <mxPoint x="1241" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-102" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="285" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-103" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5whXlgaujgkpR1IzbLmS-105" target="5whXlgaujgkpR1IzbLmS-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="350" as="sourcePoint" />
+            <mxPoint x="1200" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-104" value="&lt;b&gt;Low quality code&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5whXlgaujgkpR1IzbLmS-105" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="350" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
